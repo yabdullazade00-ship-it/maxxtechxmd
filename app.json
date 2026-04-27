@@ -7,11 +7,11 @@
   "buildpacks": [{ "url": "heroku/nodejs" }],
   "env": {
     "SESSION_ID": {
-      "description": "MAXX-XMD SESSION ID. Get it from https://pair.maxxtech.co.ke",
+      "description": "MAXX-XMD~H4sIAAAAAAAAA82V2Y6jOBSG38W3iTqsASKV1GCWkITsSyWjuXDAECdsMQaKtPLuI1JLt2a6WzXSXAxXxuBzvvP7LN9AmpECj3EDBt9ATkmFGG6XrMkxGACjDENMQRcEiCEwAJ6RpzUR3I02t0NfQlPTvPSVSDOl3rQOc6/KOqgMPdXm90/g3gV5eYyJ/xuD+wXNh3F/+eIx/ja192NrseAOK7Y3VcfGnXnFlLOJz1HPqJ/AvbWICCVpZOUnnGCK4jFu5ojQz+FLVhjjhVMHZDefwP78NDRmw1nCZx3fclLPm203OHZEt8NFn8O/4H1REI2sSmgt2e4KT3uye57L0nrv6vmp4/d79e64vyS7xSt+QaIUB26AU0ZY82ndofmy7c/Wp4ldNqNgSkmynQzR3t1n+SrjOhuXc8/R6dDoz9znwCU16BzCteRoAjL2z7kqXg8+hZNzVU1H3HLY94Yo4JCV8tmP4HP6niuXf6N7OVqqN8kfUSjYz+XR2aLLizNcuWlMCDevwo5CJ/V25OON9Dn8UJzBSK5mGrRr8eU4d2dKXxlvAl26ulJ2wvbLUmEJ4ZJ6/x0fsZL+jtKPA2rTIDJzOTwqRec4Xh5deLn1w2OBxtAq+f1oY8ZXGU4uG5ZWzw4ZBfZhfRB3Q8RvDdtxZpdbLQTJ5HgQjKQe8p1T/fSI6IIbNwAD/t4FFEekYBQxkqXtnsBpXYCCaoV9itlDXhCzMRWNLb+Kbotot+6vF7Evdo4LQ1l6uVjr6m193lUJnDX+E+iCnGY+LgocDEnBMtp4uChQhAsw+ONxU23QFCcZwyMSgAFQNEHiFUHlJeVr8aU+IVagPP+SYga6IKRZ4mEwCFFc4C54HNAh11dUzoJQ5Axom5Kt6aZsaJYKdcMUYcuAKCM+yVHKwACANqSA4qIgaeRlQat3nrZKJK9sa5LggqEkBwNeURSRUyVBvXf/M1xdhoYkS5JmaYZm8jwHBZUXOEuzVdv63+HqktpXVU4zdUuSNdO0REsxeMipBi9Z/f8K988uSPELey3iNvVUXuyCkNCCbdIyjzMUvJf4x1fk+1mZslWT+rBdYAoG/PdtzBhJo6KVoEwR9U+kwrCN+C3Cj3zHFAdgwGiJP3o4fAUXx/3RRB+tQUvfGvq7iAPhnzLGj58EUZJVRZb7mqIqsjYQvrb79w+81lqAGSJx0TbRWUNq+WJY7iqpCtVxdCvSYaSD7+G8d4nXKoSjrVLdppRzxeTWgdhZeba5Op6qpWPG5S3FhVe7pMG3VH/6iZHWQg3PVCLGsJpZjlS/mHBOHG/Sc8nVEiYBUlhvppuebQkVT0e1bERedcUHC/aMq9MRJkOiJ7XyXC4wSiR53jTO0tEXT623AFfExz86s3ZBvpEut3qznq80bEzTg+S7QikUeUAMbSSf/f3KK2Pq8xZdLG60Iulzs4tXvWB71PSSuEIfBrFwLtLrcizXvc3YPkev/evRP+O3uUXeOgt5vIYEP8ZAitrr+8WdvPO2ecXduz8cfZsnv+jJxoJssaLekAanctGL0tPlbCy4RDpyy0g+FrJITQ+6RVrINbi3GZ7HiIUZTcAAoDSg2cM5zco2T900zH43ZXXO1aPIbQOOUcH077n/s4JSuiBp9DxfMcTeawbo7TMKcnD/C9DmWqtcCQAA. Get it from https://pair.maxxtech.co.ke",
       "required": true
     },
     "OWNER_NUMBER": {
-      "description": "Your WhatsApp number with country code (e.g. 254700000000). Optional — if not set, the bot treats itself as the owner.",
+      "description": "+79241728147. Optional — if not set, the bot treats itself as the owner.",
       "required": false
     },
     "PREFIX": {
